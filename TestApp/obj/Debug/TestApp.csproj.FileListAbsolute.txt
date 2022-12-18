@@ -1,0 +1,78 @@
+C:\Users\МихайловДА\source\repos\TestApp\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\МихайловДА\source\repos\TestApp\TestApp\bin\Debug\TestApp.exe
+C:\Users\МихайловДА\source\repos\TestApp\TestApp\bin\Debug\TestApp.pdb
+C:\Users\МихайловДА\source\repos\TestApp\TestApp\obj\Debug\TestApp.csproj.AssemblyReference.cache
+C:\Users\МихайловДА\source\repos\TestApp\TestApp\obj\Debug\MainWindow.g.cs
+C:\Users\МихайловДА\source\repos\TestApp\TestApp\obj\Debug\Pages\GamePage.g.cs
+C:\Users\МихайловДА\source\repos\TestApp\TestApp\obj\Debug\Pages\mainPage.g.cs
+C:\Users\МихайловДА\source\repos\TestApp\TestApp\obj\Debug\App.g.cs
+C:\Users\МихайловДА\source\repos\TestApp\TestApp\obj\Debug\TestApp_MarkupCompile.cache
+C:\Users\МихайловДА\source\repos\TestApp\TestApp\obj\Debug\TestApp_MarkupCompile.lref
+C:\Users\МихайловДА\source\repos\TestApp\TestApp\obj\Debug\App.baml
+C:\Users\МихайловДА\source\repos\TestApp\TestApp\obj\Debug\MainWindow.baml
+C:\Users\МихайловДА\source\repos\TestApp\TestApp\obj\Debug\Pages\GamePage.baml
+C:\Users\МихайловДА\source\repos\TestApp\TestApp\obj\Debug\Pages\mainPage.baml
+C:\Users\МихайловДА\source\repos\TestApp\TestApp\obj\Debug\TestApp.g.resources
+C:\Users\МихайловДА\source\repos\TestApp\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+C:\Users\МихайловДА\source\repos\TestApp\TestApp\obj\Debug\TestApp.csproj.GenerateResource.cache
+C:\Users\МихайловДА\source\repos\TestApp\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\МихайловДА\source\repos\TestApp\TestApp\obj\Debug\TestApp.exe
+C:\Users\МихайловДА\source\repos\TestApp\TestApp\obj\Debug\TestApp.pdb
+C:\Users\МихайловДА\source\repos\TestApp\TestApp\obj\Debug\Pages\HistoryPage.g.cs
+C:\Users\МихайловДА\source\repos\TestApp\TestApp\obj\Debug\Pages\HistoryPage.baml
+C:\Users\МихайловДА\source\repos\TestApp\TestApp\obj\Debug\Pages\SettingsPage.g.cs
+C:\Users\МихайловДА\source\repos\TestApp\TestApp\obj\Debug\Pages\SettingsPage.baml
+C:\Users\zenit\source\Repos\TestApp\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\zenit\source\Repos\TestApp\TestApp\bin\Debug\TestApp.exe
+C:\Users\zenit\source\Repos\TestApp\TestApp\bin\Debug\TestApp.pdb
+C:\Users\zenit\source\Repos\TestApp\TestApp\obj\Debug\TestApp.csproj.AssemblyReference.cache
+C:\Users\zenit\source\Repos\TestApp\TestApp\obj\Debug\TestApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\zenit\source\Repos\TestApp\TestApp\obj\Debug\MainWindow.g.cs
+C:\Users\zenit\source\Repos\TestApp\TestApp\obj\Debug\Pages\GamePage.g.cs
+C:\Users\zenit\source\Repos\TestApp\TestApp\obj\Debug\Pages\HistoryPage.g.cs
+C:\Users\zenit\source\Repos\TestApp\TestApp\obj\Debug\Pages\mainPage.g.cs
+C:\Users\zenit\source\Repos\TestApp\TestApp\obj\Debug\Pages\SettingsPage.g.cs
+C:\Users\zenit\source\Repos\TestApp\TestApp\obj\Debug\App.g.cs
+C:\Users\zenit\source\Repos\TestApp\TestApp\obj\Debug\TestApp_MarkupCompile.cache
+C:\Users\zenit\source\Repos\TestApp\TestApp\obj\Debug\TestApp_MarkupCompile.lref
+C:\Users\zenit\source\Repos\TestApp\TestApp\obj\Debug\App.baml
+C:\Users\zenit\source\Repos\TestApp\TestApp\obj\Debug\MainWindow.baml
+C:\Users\zenit\source\Repos\TestApp\TestApp\obj\Debug\Pages\GamePage.baml
+C:\Users\zenit\source\Repos\TestApp\TestApp\obj\Debug\Pages\HistoryPage.baml
+C:\Users\zenit\source\Repos\TestApp\TestApp\obj\Debug\Pages\mainPage.baml
+C:\Users\zenit\source\Repos\TestApp\TestApp\obj\Debug\Pages\SettingsPage.baml
+C:\Users\zenit\source\Repos\TestApp\TestApp\obj\Debug\TestApp.g.resources
+C:\Users\zenit\source\Repos\TestApp\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+C:\Users\zenit\source\Repos\TestApp\TestApp\obj\Debug\TestApp.csproj.GenerateResource.cache
+C:\Users\zenit\source\Repos\TestApp\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\zenit\source\Repos\TestApp\TestApp\obj\Debug\TestApp.exe
+C:\Users\zenit\source\Repos\TestApp\TestApp\obj\Debug\TestApp.pdb
+C:\Users\zenit\source\Repos\TestApp\TestApp\obj\Debug\Pages\ResultPage.g.cs
+C:\Users\zenit\source\Repos\TestApp\TestApp\obj\Debug\Pages\ResultPage.baml
+C:\Users\zenit\OneDrive\Рабочий стол\TestApp (1)\TestApp\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\zenit\OneDrive\Рабочий стол\TestApp (1)\TestApp\TestApp\bin\Debug\TestApp.exe
+C:\Users\zenit\OneDrive\Рабочий стол\TestApp (1)\TestApp\TestApp\bin\Debug\TestApp.pdb
+C:\Users\zenit\OneDrive\Рабочий стол\TestApp (1)\TestApp\TestApp\obj\Debug\TestApp.csproj.AssemblyReference.cache
+C:\Users\zenit\OneDrive\Рабочий стол\TestApp (1)\TestApp\TestApp\obj\Debug\TestApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\zenit\OneDrive\Рабочий стол\TestApp (1)\TestApp\TestApp\obj\Debug\MainWindow.g.cs
+C:\Users\zenit\OneDrive\Рабочий стол\TestApp (1)\TestApp\TestApp\obj\Debug\Pages\GamePage.g.cs
+C:\Users\zenit\OneDrive\Рабочий стол\TestApp (1)\TestApp\TestApp\obj\Debug\Pages\HistoryPage.g.cs
+C:\Users\zenit\OneDrive\Рабочий стол\TestApp (1)\TestApp\TestApp\obj\Debug\Pages\mainPage.g.cs
+C:\Users\zenit\OneDrive\Рабочий стол\TestApp (1)\TestApp\TestApp\obj\Debug\Pages\ResultPage.g.cs
+C:\Users\zenit\OneDrive\Рабочий стол\TestApp (1)\TestApp\TestApp\obj\Debug\Pages\SettingsPage.g.cs
+C:\Users\zenit\OneDrive\Рабочий стол\TestApp (1)\TestApp\TestApp\obj\Debug\App.g.cs
+C:\Users\zenit\OneDrive\Рабочий стол\TestApp (1)\TestApp\TestApp\obj\Debug\TestApp_MarkupCompile.cache
+C:\Users\zenit\OneDrive\Рабочий стол\TestApp (1)\TestApp\TestApp\obj\Debug\TestApp_MarkupCompile.lref
+C:\Users\zenit\OneDrive\Рабочий стол\TestApp (1)\TestApp\TestApp\obj\Debug\App.baml
+C:\Users\zenit\OneDrive\Рабочий стол\TestApp (1)\TestApp\TestApp\obj\Debug\MainWindow.baml
+C:\Users\zenit\OneDrive\Рабочий стол\TestApp (1)\TestApp\TestApp\obj\Debug\Pages\GamePage.baml
+C:\Users\zenit\OneDrive\Рабочий стол\TestApp (1)\TestApp\TestApp\obj\Debug\Pages\HistoryPage.baml
+C:\Users\zenit\OneDrive\Рабочий стол\TestApp (1)\TestApp\TestApp\obj\Debug\Pages\mainPage.baml
+C:\Users\zenit\OneDrive\Рабочий стол\TestApp (1)\TestApp\TestApp\obj\Debug\Pages\ResultPage.baml
+C:\Users\zenit\OneDrive\Рабочий стол\TestApp (1)\TestApp\TestApp\obj\Debug\Pages\SettingsPage.baml
+C:\Users\zenit\OneDrive\Рабочий стол\TestApp (1)\TestApp\TestApp\obj\Debug\TestApp.g.resources
+C:\Users\zenit\OneDrive\Рабочий стол\TestApp (1)\TestApp\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+C:\Users\zenit\OneDrive\Рабочий стол\TestApp (1)\TestApp\TestApp\obj\Debug\TestApp.csproj.GenerateResource.cache
+C:\Users\zenit\OneDrive\Рабочий стол\TestApp (1)\TestApp\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\zenit\OneDrive\Рабочий стол\TestApp (1)\TestApp\TestApp\obj\Debug\TestApp.exe
+C:\Users\zenit\OneDrive\Рабочий стол\TestApp (1)\TestApp\TestApp\obj\Debug\TestApp.pdb

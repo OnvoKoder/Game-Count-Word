@@ -1,0 +1,54 @@
+﻿<Page x:Class="TestApp.Pages.SettingsPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:TestApp.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="SettingsPage">
+    <Grid>
+        <Grid Panel.ZIndex="-1" Style="{StaticResource Page}"/>
+        <StackPanel>
+            <TextBlock Text="Язык" Style="{StaticResource Text}"/>
+            <ComboBox Name="cmbLanguage" Width="70">
+                <ComboBoxItem>
+                    <WrapPanel>
+                        <Image Source="/Resources/ru.png" Style="{StaticResource ImgFlag}"/>
+                        <TextBlock Text="RU"/>
+                    </WrapPanel>
+                </ComboBoxItem>
+                <ComboBoxItem>
+                    <WrapPanel>
+                        <Image Source="/Resources/en.png" Style="{StaticResource ImgFlag}"/>
+                        <TextBlock Text="EN"/>
+                    </WrapPanel>
+                </ComboBoxItem>
+            </ComboBox>
+            <TextBlock Text="Сложность" Style="{StaticResource Text}"/>
+            <ComboBox Name="cmbLevel">
+                <ComboBoxItem>
+                    <WrapPanel>
+                        <Image Source="/Resources/green.png" Style="{StaticResource ImgCicle}"/>
+                        <TextBlock Text="Легкий"/>
+                    </WrapPanel>
+                </ComboBoxItem>
+                <ComboBoxItem>
+                    <WrapPanel>
+                        <Image Source="/Resources/yellow.png" Style="{StaticResource ImgCicle}"/>
+                        <TextBlock Text="Средний"/>
+                    </WrapPanel>
+                </ComboBoxItem>
+                <ComboBoxItem>
+                    <WrapPanel>
+                        <Image Source="/Resources/red.png" Style="{StaticResource ImgCicle}"/>
+                        <TextBlock Text="Сложный"/>
+                    </WrapPanel>
+                </ComboBoxItem>
+            </ComboBox>
+            <TextBlock Text="Предложение" Style="{StaticResource Text}"/>
+            <TextBox x:Name="txtPerson" Width="350" Height="100" PreviewTextInput="txtPerson_PreviewTextInput"/>
+            <Button x:Name="btnAddText" Content="Начать" Click="AddText"/>
+        </StackPanel>
+    </Grid>
+</Page>

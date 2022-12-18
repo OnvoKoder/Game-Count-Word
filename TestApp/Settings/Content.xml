@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Content>
+  <LevelLanguage name="RU_EASY_1">
+    <Sentence> Меня зовут Кира Йошикагэ. Мне 33 года. Мой дом находится в северо-восточной части Морио, в районе поместий.</Sentence>
+  </LevelLanguage>
+  <LevelLanguage name="EN_EASY_1">
+    <Sentence> Hi! Nice to meet you! My name is John Smith. I am 19 and a student in college. I go to college in New York. My favorite courses are Geometry, French, and History. </Sentence>
+  </LevelLanguage>
+  <LevelLanguage name="EN_EASY_2">
+    <Sentence>This app wrote on C# WPF. You can play in game, show history and result and add sentances</Sentence>
+  </LevelLanguage>
+</Content>
